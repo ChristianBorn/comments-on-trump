@@ -1,0 +1,283 @@
+# Einwortbenennungen
+
+#trump2016=#trump2016 #e
+afro-american=afro-american #s
+america=america #e
+anti-imperialist=anti-imperialist #s
+arabia=arabia #e
+arabian=arabian #s
+arabian=arabian #a
+arkancide=arkancide #s
+backstabbing=backstabbing #a
+bankers=bankers #s
+bengahzi=benghazi #e
+bernie=bernie #e
+bitch=bitch #s
+bolshevik=bolshevik #s
+brainshwash=brainwash #s
+brainwashed=brainwashed #a
+chance=chance #s
+change=change #s
+cheating=cheating #s
+christian=christian #e
+church=church #s
+cia=cia #s
+class=class #s
+clinton=clinton #e
+clown=clown #s
+corporate=corporate #s
+corruption=corruption #s
+corrupt=corrupt #a
+criminal=criminal #s
+crooked=crooked #a
+crooks=crooks #s
+cunt=cunt #s
+david brock=david brock #e
+delegates=delegate #s
+demagoguery=demagoguery #s
+democrats=democrats #s
+devil=devil #s
+diebold=diebold #e
+donald=donald #e
+drumpf=drumpf #e
+dumb=dumb #a
+email=email #s
+extreme=extreme #a
+fascism=fascism #s
+#FeelTheBern=#FeelTheBern #s
+flint=flint #e
+fracking=fracking #s
+genocide=genocide #s
+germany=germany #e
+greed=greed #s
+hillary=hillary #e
+hypocrisy=hypocrisy #s
+hypocrite=hypocrite #s
+hispanic=histanic #a
+illuminati=illuminati #s
+imperialist=imperialist #s
+insane=insane #a
+isis=isis #s
+israel=israel #e
+jail=jail #s
+jesuits=jesuits #s
+jew=jew #s
+john=john #e
+kennedy=kennedy #e
+ku-klux-klan=ku-klux-klan #s
+left=left #s
+liar=liar #s
+liberal=liberal #s
+libtards=libtards #s
+lobby=lobby #s
+lobbyism=lobbyism #s
+lobbyist=lobbyist #s
+madman=madman #s
+mainstream=mainstream #s
+media=media #s
+mercenary=mercenary #s
+mercenaries=mercenary #s
+mexico=mexico #e
+middle=middle #s
+monsanto=monsanto #e
+murderer=murderer #s
+muslim=muslim #s
+nazi=nazi #s
+neocon=neocon #s
+neoliberalism=neoliberalism #s
+neoconservatism=neoconservatism #s
+netanyahu=netanyahu #e
+nutcase=nutcase #s
+obama=obama #e
+oligarch=oligarch #s
+oppression=oppression #s
+palestine=palestine #e
+palestinian=palestinian #a
+palestinian=palestinian #s
+populist=populist #s
+politician=politician #s
+pollution=pollution #s
+poverty=poverty #s
+polls=polls #s
+predator=predator #s
+prejudice=prejudice #s
+propaganda=propaganda #s
+puppet=puppet #s
+putin=putin #e
+racism=racism #s
+racist=racist #s
+refugee=refugee #s
+republicans=republicans #s
+republican=republican #a
+resources=resources #s
+retard=retard #s
+retarded=retarded #a
+revolution=revolution #s
+rich=rich #s
+rigged=rigged #a
+right-wing=right-wing #s
+rothschild=rothschild #e
+russia=russia #e
+russian=russian #s
+russian=russian #a
+sanders=sanders #e
+satan=satan e#
+self-fund=self-fund #v
+selfish=selfish #a
+seperatism=seperatism #s
+sexism=sexism #s
+showman=showman #s
+slavery=slavery #s
+socialism=socialism #s
+sociopath=sociopath #s
+super=super #s
+superdelegates=superdelegate #s
+syria=syria #e
+tax=tax #e
+terrorism=terrorism #s
+terrorist=terrorist #s
+thief=thief #s
+trump=trump #e
+uneducated=uneducated #s
+war=war #s
+warmonger=warmonger #s
+whore=whore #s
+zionist=zionist #s
+zionist=zionist #a
+
+
+
+# Mehrwortbenennungen
+
+al qaida
+american people
+anger factor
+bernie 2016
+bernie sanders
+blue state
+can't be trusted
+catholic president
+clinton body count
+communist jew
+corporate america
+criminally insane
+cruz 2016
+deep state
+domestic economy
+donald trump
+evil bitch
+fear factor
+feel the bern
+final nail in coffin
+foreign policy
+fuck face
+go bernie
+goldman sachs
+global elite
+green party
+health care
+hillary 2016
+hillary clinton
+illusion of choice
+impending doom
+john f. kennedy
+killary klingon
+killary cunton
+leftist jew
+lizard lady
+mafia queen
+mainstream media
+middle class
+middle east
+muslim brotherhood
+muslim terrorist
+new world order
+world government
+parrot from wall street
+people are losers
+police state
+political establishment
+president Nntanyahu
+prison state
+protest vote
+racial bias
+rigged elections
+she can't be trusted
+shillary clinton
+smear camapaign
+super delegates
+swing state
+trump 2016
+trump train
+two party system
+us politicians
+wall street
+war criminal
+world war III
+zionist jew
+
+
+
+# Synoyme
+arabian=arabia
+bernie=bernie sanders
+billary=hillary clinton
+brainwashed=brainwash
+catholic president=donald trump
+clown=insult
+corrupt=corruption
+cunt=insult
+dems=democrats
+donald=donald trump
+donald j. trump=donald trump
+drumpf=donald trump
+dumb=negative_adjective
+e-mail=email
+evil bitch=insult
+fascist=fascism
+fuck face=insult
+hellry=hillary clinton
+hildebeast=hillary clinton
+hildabeast=hillary clinton
+hilary=hillary clinton
+hillary r. clinton=hillary clinton
+hilhagary=hillary clinton
+hitlary=hillary clinton
+hitlery=hillary clinton
+hitlery clinton=hillary clinton
+jfk=john f. kennedy
+kennedy=john f. kennedy
+kkk=ku-klux-klan
+killary=hillary clinton
+killary cunton=hillary clinton
+killary klingon=hillary clinton
+liars=insult
+lizard lady=hillary clinton
+lobby=lobbyism
+lobbyist=lobbyism
+mafia queen=insult
+main stream media=mainstream media
+mercenaries=mercenary
+mideast=middle east
+neocon=neoconservatism
+neo con=neoconservatism
+neo-con=neoconservatism
+neo-cons=neoconservatism
+neeo- con=neoconservatism
+nutcase=insult
+oppress=oppression
+oppressed=oppression
+parrot from wall street=hillary clinton
+palestinian=palestine
+polluted=pollution
+prejuge=prejudice
+prison regime=prison state
+rigged=rigged elections
+russian=russia
+sanders=bernie sanders
+shillary clinton=hillary clinton
+she can not be trusted=she can't be trusted
+terrorist=terrorism
+trump=donald trump
+witch=insult
+ww3=world war III
